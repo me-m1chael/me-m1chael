@@ -55,20 +55,7 @@
 
 ---
 
-### 📊 Статистика GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=me-m1chael&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=me-m1chael&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=me-m1chael&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-### 📫 Связаться со мной
+### Связаться со мной
 
 <p align="left">
   <a href="mailto:just_michael@internet.ru">
